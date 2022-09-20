@@ -1,0 +1,26 @@
+{
+  "name": "babel-plugin-test",
+  "version": "1.0.0",
+  "description": "babel-plugin测试",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengliuliu/babel-plugin-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mengliuliu/babel-plugin-test/issues"
+  },
+  "homepage": "https://github.com/mengliuliu/babel-plugin-test#readme",
+  "devDependencies": {
+    "@babel/generator": "^7.19.0",
+    "@babel/parser": "^7.19.1",
+    "@babel/traverse": "^7.19.1",
+    "@babel/types": "^7.19.0"
+  }
+}
